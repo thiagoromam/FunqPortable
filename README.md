@@ -1,7 +1,7 @@
 Funq DI Portable
 ===========
 
-Fork of [Funq](http://funq.codeplex.com) to supports the following plataforms:
+Fork of [Funq](http://funq.codeplex.com) to support the following platforms:
 * .Net Framework 4 and higher
 * Silverlight 5
 * Windows Phone 8
